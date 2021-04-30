@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasyClassic</string>
+    <string name="drive">Drive</string>
+    <string name="setup">Setup</string>
+</resources>
